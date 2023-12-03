@@ -22,6 +22,7 @@ BuildRequires: ninja
 BuildRequires: cmake(ECM)
 BuildRequires: cmake(KF6Codecs)
 BuildRequires: cmake(KF6I18n)
+BuildRequires: cmake(Qt6)
 BuildRequires: cmake(Qt6Core)
 BuildRequires: cmake(Qt6Test)
 BuildRequires: boost-devel
