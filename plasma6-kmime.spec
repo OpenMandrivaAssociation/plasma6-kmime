@@ -1,6 +1,6 @@
 %define major 6
-%define libname %mklibname KF6Mime
-%define devname %mklibname KF6Mime -d
+%define libname %mklibname KPim6Mime
+%define devname %mklibname KPim6Mime -d
 
 Name: plasma6-kmime
 Version:	24.01.80
