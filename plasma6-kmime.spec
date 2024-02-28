@@ -2,7 +2,7 @@
 %define libname %mklibname KPim6Mime
 %define devname %mklibname KPim6Mime -d
 
-%define git 20240217
+#define git 20240217
 %define gitbranch release/24.02
 %define gitbranchd %(echo %{gitbranch} |sed -e 's,/,-,g')
 
