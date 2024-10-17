@@ -21,7 +21,7 @@ Source0: https://invent.kde.org/pim/kmime/-/archive/%{gitbranch}/kmime-%{gitbran
 Source0: http://download.kde.org/%{ftpdir}/release-service/%{version}/src/kmime-%{version}.tar.xz
 %endif
 Summary: KDE library for handling MIME types
-URL: http://kde.org/
+URL: https://kde.org/
 License: GPL
 Group: System/Libraries
 Requires: %{libname} = %{EVRD}
